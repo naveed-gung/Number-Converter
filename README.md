@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# Conv3rt3r
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Conv3rt3r** is a versatile number conversion tool built with React and Bootstrap. It allows users to convert numbers between binary, decimal, and hexadecimal formats. Additionally, it features a quiz mode for practice, a history log for tracking conversions, and a dark mode for comfortable viewing.
 
-## Available Scripts
+Visit the live site: [https://conv3rt3r.netlify.app/](https://conv3rt3r.netlify.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Number Conversion**:
+  - Binary to Decimal
+  - Decimal to Binary
+  - Binary to Hexadecimal
+  - Hexadecimal to Binary
+- **Quiz Mode**: Test your number conversion skills with interactive quizzes.
+- **History Log**: Keep track of all your conversions for easy reference.
+- **Dark Mode**: Toggle between light and dark themes for a comfortable user experience.
+- **User-Friendly Interface**: Simple and intuitive design powered by React and Bootstrap.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**: React.js
+- **Styling**: Bootstrap
+- **Hosting**: [Netlify](https://www.netlify.com/)
+- **Version Control**: Git and GitHub
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Use
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Visit [Conv3rt3r](https://conv3rt3r.netlify.app/).
+2. Select the type of conversion you want to perform:
+   - Binary to Decimal
+   - Decimal to Binary
+   - Binary to Hexadecimal
+   - Hexadecimal to Binary
+3. Enter the number in the input field.
+4. Click the "Convert" button to see the result.
+5. Use the **History** section to view past conversions.
+6. Switch to **Quiz Mode** to test your knowledge.
+7. Toggle **Dark Mode** for a comfortable viewing experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Light Mode](/screenshots/light-mode.png)  
+*Light Mode Interface*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Dark Mode](/screenshots/dark-mode.png)  
+*Dark Mode Interface*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Installation (For Local Development)
 
-## Learn More
+If you'd like to run this project locally, follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/conv3rt3r.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd conv3t3r
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5.Open your browser and visit http://localhost:3000.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeatureName).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeatureName).
+5. Open a pull request.
+   
