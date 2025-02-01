@@ -47,10 +47,10 @@ Visit the live site: [https://conv3rt3r.netlify.app/](https://conv3rt3r.netlify.
 
 ## Screenshots
 
-![Light Mode](/screenshots/light-mode.png)  
+![Light Mode](https://media.licdn.com/dms/image/v2/D562DAQHI4uVjgoY6_w/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1738355065859?e=1739016000&v=beta&t=G5MA_VGplhgiYolm86s1RtN_P_9GnGNgnfyRXUpcGKw)  
 *Light Mode Interface*
 
-![Dark Mode](/screenshots/dark-mode.png)  
+![Dark Mode](https://www.linkedin.com/in/naveed-sohail-gung-285645310/details/projects/1040838186/multiple-media-viewer?profileId=ACoAAE8d70UBeYhMBmiP_BbS28WyCYAQ7JzvX_4&treasuryMediaId=1738411172681&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3Bm%2FCYnXO7RamMKZGV%2Bsi%2B6A%3D%3D)  
 *Dark Mode Interface*
 
 ---
